@@ -1,2 +1,2 @@
 
-SELECT * from tablename   // v1
+SELECT * from tablename where id = 1 
