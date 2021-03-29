@@ -1,4 +1,0 @@
-
-SELECT * from tablename where id = 1 
-SELECT * from tablename_two 
-select * from tablename_three
